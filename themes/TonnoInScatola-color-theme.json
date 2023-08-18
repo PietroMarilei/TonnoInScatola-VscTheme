@@ -5,6 +5,14 @@
 		"type": "git",
 		"url": "https://github.com/PietroMarilei/TonnoInScatola-VscTheme.git"
 	},
+	"keywords": [
+		"TonnoInScatola",
+		"tonno",
+		"Tuna", 
+		"simple", 
+		"Pietro",
+		"Tonno",
+	]
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"function": {
