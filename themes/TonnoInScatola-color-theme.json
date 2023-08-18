@@ -1,5 +1,10 @@
 {
 	"name": "TonnoInScatola",
+	"publisher": "PietroBastas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PietroMarilei/TonnoInScatola-VscTheme.git"
+	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"function": {
