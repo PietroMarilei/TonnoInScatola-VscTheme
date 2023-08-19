@@ -12,7 +12,7 @@
 		"simple", 
 		"Pietro",
 		"Tonno",
-	]
+	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"function": {
