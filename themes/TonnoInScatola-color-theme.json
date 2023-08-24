@@ -130,7 +130,7 @@
 		"titleBar.activeBackground": "#24292E",
 		"titleBar.activeForeground": "#C8D1DF",
 		"titleBar.inactiveBackground": "#24292E",
-		"titleBar.inactiveForeground": "#6B717D"
+		"titleBar.inactiveForeground": "#6B717D",
 	},
 	"tokenColors": [
 		{
@@ -193,6 +193,7 @@
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
+				// php to fix
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
@@ -202,6 +203,15 @@
 			],
 			"settings": {
 				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "php tag",
+			"scope": [
+				"punctuation.section.embedded",
+			],
+			"settings": {
+				"foreground": "#5f95f2"
 			}
 		},
 		{
